@@ -1,5 +1,4 @@
-Corrective submovements compensate for cerebellar error
-
+Dissociable cerebellar pathways for reach correction and learning
 Authors & Contact
 
 Courtney I. Dobrott, Abdulraheem Nashef, Matthew I. Becker, Abigail L. Person- University of Colorado, Anschutz
@@ -7,7 +6,7 @@ abigail.person@cuanschutz.edu
  
  Paper / Publication
 
-Corrective submovements compensate for cerebellar error
+Dissociable cerebellar pathways for reach correction and learning
 
 in press
 
